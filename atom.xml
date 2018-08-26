@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Serdar Küçüklü</title>
   <subtitle>Software Development Specialist at Groupama</subtitle>
-  <link href="/blog-hexo/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://serdarkucuklu.github.io/blog-hexo/"/>
+  <link href="https://serdarkucuklu.github.io/"/>
   <updated>2018-08-26T17:55:09.570Z</updated>
-  <id>https://serdarkucuklu.github.io/blog-hexo/</id>
+  <id>https://serdarkucuklu.github.io/</id>
   
   <author>
     <name>Serdar Küçüklü</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello</title>
-    <link href="https://serdarkucuklu.github.io/blog-hexo/first-post/"/>
-    <id>https://serdarkucuklu.github.io/blog-hexo/first-post/</id>
+    <link href="https://serdarkucuklu.github.io/first-post/"/>
+    <id>https://serdarkucuklu.github.io/first-post/</id>
     <published>2018-08-25T15:33:48.269Z</published>
     <updated>2018-08-26T17:55:09.570Z</updated>
     
