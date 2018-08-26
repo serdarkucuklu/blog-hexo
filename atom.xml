@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Serdar Küçüklü</title>
+  <subtitle>Software Development Specialist at Groupama</subtitle>
+  <link href="/blog-hexo/atom.xml" rel="self"/>
+  
+  <link href="https://serdarkucuklu.github.io/blog-hexo/"/>
+  <updated>2018-08-26T17:55:09.570Z</updated>
+  <id>https://serdarkucuklu.github.io/blog-hexo/</id>
+  
+  <author>
+    <name>Serdar Küçüklü</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello</title>
+    <link href="https://serdarkucuklu.github.io/blog-hexo/first-post/"/>
+    <id>https://serdarkucuklu.github.io/blog-hexo/first-post/</id>
+    <published>2018-08-25T15:33:48.269Z</published>
+    <updated>2018-08-26T17:55:09.570Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to my new blog.. See you soon :)</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to my new blog.. See you soon :)&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
