@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://serdarkucuklu.github.io/"/>
-  <updated>2018-08-30T09:44:08.902Z</updated>
+  <updated>2018-08-30T10:48:53.008Z</updated>
   <id>https://serdarkucuklu.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://serdarkucuklu.github.io/first-post/"/>
     <id>https://serdarkucuklu.github.io/first-post/</id>
     <published>2018-08-25T15:33:48.269Z</published>
-    <updated>2018-08-30T09:44:08.902Z</updated>
+    <updated>2018-08-30T10:48:53.008Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to my new blog.. See you soon :)</p>
 ]]></content>
@@ -32,7 +32,9 @@
     
     </summary>
     
-      <category term="JavaScript" scheme="https://serdarkucuklu.github.io/categories/JavaScript/"/>
+      <category term="CS" scheme="https://serdarkucuklu.github.io/categories/CS/"/>
+    
+      <category term="Usage" scheme="https://serdarkucuklu.github.io/categories/CS/Usage/"/>
     
     
   </entry>
